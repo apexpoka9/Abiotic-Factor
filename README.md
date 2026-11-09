@@ -198,4 +198,4 @@ This repository serves as the official landing page for Abiotic Factor. The soft
 **Get the most recent version of Abiotic Factor today!**
 
 ---
-**Last updated:** 2026-11-09 07:22:10 UTC
+**Last updated:** 2026-11-09 17:55:14 UTC
